@@ -6,6 +6,10 @@ I'm interested in various topics, so I'm developing some side projects in my spa
 
 You can also check my repositories to find other projects, for example: Platformer game using unity, several games using pygame, some desktop applications using C# WPF, among others.
 
+## 🌱 I’m currently learning
+- Languages: C#
+- Topics #1: Pixelart, 2D animation
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francocambiaso/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:francoocambiaso@gmail.com) 
@@ -23,7 +27,4 @@ You can also check my repositories to find other projects, for example: Platform
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoCambi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![trophy](https://github-profile-trophy.vercel.app/?username=FrancoCambi&title=MultiLanguage&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🌱 I’m currently learning
-- Languages: C#
-- Topics #1: Pixelart, 2D animation
 
