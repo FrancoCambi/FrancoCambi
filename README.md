@@ -24,9 +24,9 @@ You can also check my repositories to find other projects, for example: Platform
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoCambi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![](https://github-readme-stats.vercel.app/api?username=FrancoCambi&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/FrancoCambi)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=FrancoCambi&theme=material-palenight)](https://github.com/FrancoCambi)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoCambi&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![](https://github-readme-stats.vercel.app/api?username=FrancoCambi&show_icons=true&theme=onedark&hide_border=true&locale=en)](https://github.com/FrancoCambi)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=FrancoCambi&theme=onedark)](https://github.com/FrancoCambi)
 [![trophy](https://github-profile-trophy.vercel.app/?username=FrancoCambi&title=MultiLanguage&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
 
 
