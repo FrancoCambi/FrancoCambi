@@ -9,7 +9,8 @@ You can also check my repositories to find other projects, for example: Platform
 
 ## 🌱 I’m currently learning
 - Languages: C#
-- Topics #1: Pixel art, 2D animation, Python-Tkinter, Python-Matplotlib
+- Topic #1: Pixel art, 2D animation
+- Topic #2: Python-Tkinter, Python-Matplotlib
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francocambiaso/) 
