@@ -8,7 +8,7 @@ You can also check my repositories to find other projects, for example: Platform
 
 ## 🌱 I’m currently learning
 - Languages: C#
-- Topic #1: Pixel art, 2D animation
+- Topic #1: Pixel art, 2D animation, Unity Engine
 - Topic #2: Python-Tkinter, Python-Matplotlib
   
 ## 🌐 Socials:
