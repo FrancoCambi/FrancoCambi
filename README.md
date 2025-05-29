@@ -2,7 +2,7 @@
 👋 Hello, I'm Franco Cambiaso. I'm currently studying Computer Science Bachelor's Degree and Artificial Intelligence Technician in UNR. I'm also working as AI Trainer at Outlier. 
 
 I'm interested in various topics, so I'm developing some side projects in my spare time.
-* RPG Game: 2D RPG developed in Unity where the player explores an open world, fights enemies, completes quests, and upgrades their characters. The game is inspired by MMORPGs.
+* RPG Game: 2D Pixelart RPG developed in Unity where the player explores an open world, fights enemies, completes quests, and upgrades their characters. The game is inspired by MMORPGs.
 
 You can also check my repositories to find other projects, for example: Platformer game using unity, several games using pygame, some desktop applications using C# WPF, among others.
 
