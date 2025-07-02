@@ -2,13 +2,13 @@
 👋 Hello, I'm Franco Cambiaso. I'm currently studying Computer Science Bachelor's Degree and Artificial Intelligence Technician in UNR. I'm also working as AI Trainer at Outlier. 
 
 I'm interested in various topics, so I'm developing some side projects in my spare time.
-* Echoes of Elaria: 2D Pixelart action RPG developed in Unity where the player explores an open world, fights enemies, completes quests, and upgrades their characters.
+* Echoes of Elaria: 2D Pixelart action RPG developed in Unity where the player explores the magic of a world that was divided into several islands, fights enemies, completes quests, and upgrades their characters.
 
 You can also check my repositories to find other projects, for example: Platformer game using unity, several games using pygame, some desktop applications using C# WPF, among others.
 
 ## 🌱 I’m currently learning
 - Languages: C#
-- Topic #1: Pixel art, 2D animation, Unity Engine
+- Topic #1: Unity Engine
 - Topic #2: Python-Tkinter, Python-Matplotlib
   
 ## 🌐 Socials:
