@@ -3,13 +3,13 @@
 
 I'm interested in various topics, so I'm developing some side projects in my spare time.
 * Echoes of Elaria: 2D Pixelart action RPG developed in Unity where the player explores the magic of a world that was divided into several islands, fights enemies, completes quests, and upgrades their characters.
+* Astro Delivery: A short 2D puzzle-platformer where you play as a space courier tasked with delivering fragile packages through tricky alien terrain. Carry, jump, don't drop, and whatever you do, handle with care.
 
 You can also check my repositories to find other projects, for example: Platformer game using unity, several games using pygame, some desktop applications using C# WPF, among others.
 
 ## 🌱 I’m currently learning
 - Languages: C#
 - Topic #1: Unity Engine
-- Topic #2: Python-Tkinter, Python-Matplotlib
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francocambiaso/) 
