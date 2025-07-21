@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Franco Cambiaso. I'm currently studying Computer Science Bachelor's Degree and Artificial Intelligence Technician in UNR. I'm also working as AI Trainer at Outlier. 
+👋 Hello, I'm Franco Cambiaso. I'm a game developer and I'm currently studying Computer Science Bachelor's Degree and Artificial Intelligence Technician in UNR. I'm also working as AI Trainer at Outlier. 
 
 I'm interested in various topics, so I'm developing some side projects in my spare time.
 * Echoes of Elaria: 2D Pixelart action RPG developed in Unity where the player explores the magic of a world that was divided into several islands, fights enemies, completes quests, and upgrades their characters.
