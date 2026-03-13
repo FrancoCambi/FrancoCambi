@@ -5,18 +5,21 @@
 I'm currently studying Game Development and Production at UTN and Artificial Intelligence Technician at UNR. Alongside my studies, I spend most of my time building small projects and experimenting with different technologies related to games, tools, and AI.
 I'm particularly interested in game systems, gameplay programming, and procedural mechanics, and I enjoy creating projects that explore different ideas and genres.
 
-🎮 Current Project
+🎮 Current Projects
 
 * Against The Swarm: A horde-based roguelite where the player fights against endless waves of enemies, upgrades their build, and survives as long as possible. The game focuses on fast combat, progression systems, and replayability.
+  * Wishlist on steam: (Steam page coming soon)
 
 🧪 Other Projects
 
+* Astro Delivery: A short 2D puzzle-speedrun-platformer where you play as a space courier tasked with delivering fragile packages through tricky terrain.
+    * Available on Steam: https://store.steampowered.com/app/3927530/Astro_Delivery
+
 You can also explore my repositories to find other experiments and projects, including:
 
-* Games made with Unity
 * Small prototypes and games using pygame
 * Desktop applications built with C# and WPF
-* Various programming experiments and learning projects
+* Various programming experiments and learning projects I made during some university subjects.
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francocambiaso/) 
