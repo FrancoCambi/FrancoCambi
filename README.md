@@ -1,15 +1,22 @@
-# 💫 About Me:
-👋 Hello, I'm Franco Cambiaso. I'm a game developer and I'm currently studying Computer Science Bachelor's Degree and Artificial Intelligence Technician in UNR. I'm also working as AI Trainer at Outlier. 
+💫 About Me
 
-I'm interested in various topics, so I'm developing some side projects in my spare time.
-* Echoes of Elaria: 2D Pixelart action RPG developed in Unity where the player explores the magic of a world that was divided into several islands, fights enemies, completes quests, and upgrades their characters.
-* Astro Delivery: A short 2D puzzle-platformer where you play as a space courier tasked with delivering fragile packages through tricky alien terrain. Carry, jump, don't drop, and whatever you do, handle with care.
+👋 Hello, I'm Franco Cambiaso, a game developer being created.
 
-You can also check my repositories to find other projects, for example: Platformer game using unity, several games using pygame, some desktop applications using C# WPF, among others.
+I'm currently studying Game Development and Production at UTN and Artificial Intelligence Technician at UNR. Alongside my studies, I spend most of my time building small projects and experimenting with different technologies related to games, tools, and AI.
+I'm particularly interested in game systems, gameplay programming, and procedural mechanics, and I enjoy creating projects that explore different ideas and genres.
 
-## 🌱 I’m currently learning
-- Languages: C#
-- Topic #1: Unity Engine
+🎮 Current Project
+
+* Against The Swarm: A horde-based roguelite where the player fights against endless waves of enemies, upgrades their build, and survives as long as possible. The game focuses on fast combat, progression systems, and replayability.
+
+🧪 Other Projects
+
+You can also explore my repositories to find other experiments and projects, including:
+
+* Games made with Unity
+* Small prototypes and games using pygame
+* Desktop applications built with C# and WPF
+* Various programming experiments and learning projects
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francocambiaso/) 
