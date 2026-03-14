@@ -22,7 +22,6 @@ You can also explore my repositories to find other experiments and projects, inc
 * Various programming experiments and learning projects I made during some university subjects.
   
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francocambiaso/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:francoocambiaso@gmail.com) 
 
 ## 💻 Tech Stack:
