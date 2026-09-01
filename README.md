@@ -2,7 +2,7 @@
 
 👋 Hello, I'm Franco Cambiaso, a game developer in development.
 
-I'm currently studying Game Development and Production at UTN and Artificial Intelligence Technician at UNR. Alongside my studies, I spend most of my time building small projects and experimenting with different technologies related to games, tools, and AI.
+I'm currently studying Game Development and Production at UTN, after completing three years of Computer Science at UNR. Alongside my studies, I spend most of my time building small projects and experimenting with different technologies related to games, tools, and AI.
 I'm particularly interested in game systems, gameplay programming, and procedural mechanics, and I enjoy creating projects that explore different ideas and genres.
 
 🎮 Current Projects
